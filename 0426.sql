@@ -8,15 +8,15 @@ create table member(
 );
 
 insert into member values
-('dream', '1234', 'ÀÌÁ¤¹Ì', 'dream@google.com',
+('dream', '1234', 'ì´ì •ë¯¸', 'dream@google.com',
 to_date('20190516', 'yyyy-mm-dd'));
 
 insert into member values
-('hong', '4567', 'È«¼ø³²', 'hong@google.com',
+('hong', '4567', 'í™ìˆœë‚¨', 'hong@google.com',
 to_date('20170228', 'yyyy-mm-dd'));
 
 insert into member values
-('jsupark', '2596', '¹ÚÁØ¼ö', 'jsupark@google.com',
+('jsupark', '2596', 'ë°•ì¤€ìˆ˜', 'jsupark@google.com',
 to_date('20200120', 'yyyy-mm-dd'));
 
 commit;
